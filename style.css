@@ -1,0 +1,127 @@
+.header-nav{
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+.article-content{
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.nav-button{
+  display: inline-block;
+  width: 150px;  /* set desired width */
+  text-align: center; /* center text inside */
+  padding: 10px;
+  background: #eee;
+  border: 3px solid #ccc;
+  cursor:pointer;
+  border-radius: 8%;
+  
+}
+#acTL{
+position:absolute;
+width: 900px;
+height: 500px;
+top: 150px;
+margin-left: 10%
+}
+#acTR{
+position:absolute;
+width: 900px;
+height: 500px;
+top: 150px;
+margin-left: 60%
+}
+#acBL{
+position:absolute;
+width: 900px;
+height: 500px;
+top: 750px;
+margin-left: 10%
+}
+#acBR{
+position:absolute;
+width: 900px;
+height: 500px;
+top: 750px;
+margin-left: 60%
+}
+#acTM{
+position:absolute;
+width: 900px;
+height: 500px;
+top: 150px;
+margin-left: 36%;
+
+
+}
+#acBM{
+position:absolute;
+width: 900px;
+height: 500px;
+top: 750px;
+margin-left: 36%;
+}
+
+#acTLh{
+width: 900px;
+height: 500px;
+position:absolute;
+top:150px; 
+left: 0%;
+padding:20px
+ 
+}
+#acTRh{
+width: 900px;
+height: 500px;
+position:absolute;
+top:150px; 
+left: 50%;
+padding:20px
+}
+#acBLh{
+width: 900px;
+height: 500px;
+position:absolute;
+top:550px; 
+left: 50%;
+padding:20px
+}
+#acBRh{
+width: 900px;
+height: 500px;
+position:absolute;
+top:550px; 
+left: 0%;
+padding:20px
+}
+#nav-player{
+  position:absolute;
+  top: 500px;
+  margin-left: 40%;
+}
+
+p{
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.health-resource{
+  margin-left:20%;
+  margin-right:20%;
+  border-radius: 50%;
+  background-color:rgb(44, 133, 22);
+  font-family: Impact;
+  font-size:42px;
+
+}
+#le-foot{
+  text-align: center;
+}
+/* Ensure the HTML element uses id="header-1" to match this selector */
+#header-1{
+  font-size: 52px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
